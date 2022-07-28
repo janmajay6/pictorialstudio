@@ -96,6 +96,7 @@ span.num {
 @media screen and (max-width: 480px) {
  .wrapper{
    grid-gap: 15px;
+   margin-bottom: 600px;
  }
  .container{
    width: 100%;
